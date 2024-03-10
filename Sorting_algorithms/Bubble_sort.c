@@ -1,5 +1,3 @@
-#include <stdio.h>
-
 void bubble_sort(int arr[], int n) {
     // Проходим по всем элементам массива
     for (int i = 0; i < n; ++i) {
